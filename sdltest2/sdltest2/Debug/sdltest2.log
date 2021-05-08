@@ -1,0 +1,20 @@
+﻿  Main.cpp
+C:\Users\elite\source\repos\sdltest2\sdltest2\Main.cpp(186,34): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\elite\source\repos\sdltest2\sdltest2\Main.cpp(193,34): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\elite\source\repos\sdltest2\sdltest2\Main.cpp(200,34): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\elite\source\repos\sdltest2\sdltest2\Main.cpp(207,34): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\elite\source\repos\sdltest2\sdltest2\Main.cpp(275,40): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\elite\source\repos\sdltest2\sdltest2\Main.cpp(281,45): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\elite\source\repos\sdltest2\sdltest2\Main.cpp(290,41): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\elite\source\repos\sdltest2\sdltest2\Main.cpp(316,41): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\elite\source\repos\sdltest2\sdltest2\Main.cpp(338,10): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\elite\source\repos\sdltest2\sdltest2\Main.cpp(338,173): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\elite\source\repos\sdltest2\sdltest2\Main.cpp(341,10): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\elite\source\repos\sdltest2\sdltest2\Main.cpp(341,173): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\elite\source\repos\sdltest2\sdltest2\Main.cpp(395,97): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\elite\source\repos\sdltest2\sdltest2\Main.cpp(399,97): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\elite\source\repos\sdltest2\sdltest2\Main.cpp(404,97): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\elite\source\repos\sdltest2\sdltest2\Main.cpp(408,97): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\elite\source\repos\sdltest2\sdltest2\Main.cpp(416,112): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\elite\source\repos\sdltest2\sdltest2\Main.cpp(448): warning C4715: 'SDL_main': not all control paths return a value
+  sdltest2.vcxproj -> C:\Users\elite\source\repos\sdltest2\Debug\sdltest2.exe
